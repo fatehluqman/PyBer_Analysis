@@ -10,12 +10,16 @@ Using the Panda library from Python, created a summary DataFrame of the ride-sha
 Summary of the results indicate that the number of rides in urban cities is greatest while rural cities have the lowest number of rides.  We can also see that urban cities also have the greater driver counts while Rual cities have the lowest driver count. 
 It is not surprising then that the average fare is greater in rural cities while urban cities have the lowest average fares. Even though the data would indicate that there is greater demand in the urban cities’ dues to the greater number of rides, the reverse is true due to the larger number of available drivers in the urban cities. Increased number of drivers creates more competition driving down the cost of fares.
 This is best summarized in the PyBer Ride Sharing Data(2019) scatter plot graph below.
+![PyBer Ride-Sharing Data - Scatter](https://user-images.githubusercontent.com/62673123/127093386-adfcca5d-044e-4b46-8a6c-aadeee26aac3.PNG)
 
 The Ride Count Data(Fig2) graph shows the average number of rides by city type.  The average number fo rides in Urban cities is 24, compared to 17 in Suburban and just 6 in Rural.
+![Fig2](https://user-images.githubusercontent.com/62673123/127093398-7511e6e6-080c-4118-ac76-ebc6e8ad2f9d.png)
 
 The Ride Fare Data(Fig3) graph shows the average fare by city type.  The average fare in Urban cities is the lowest at 25, compared to 31 in Suburban and 37 in Rural.
+![Fig3](https://user-images.githubusercontent.com/62673123/127093406-4cee0d66-63bf-4448-8e29-c0f312b62a6b.png)
 
 The Driver Count Data(Fig4) graph shows the average driver count by city type.  Urban cities have the highest count of drivers at 37, compared to 16 in Suburban and 4 in Rural.
+![Fig4](https://user-images.githubusercontent.com/62673123/127093428-e31f59e3-a0f7-46fd-bc05-02965f6f5473.png)
 
 ## Summary: 
 1. The initial recommendation based on the higher fares in rural areas, with lower numbers of driver would be to implement a program to recruit more drivers for rural and suburban areas. 
